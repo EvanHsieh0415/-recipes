@@ -1,0 +1,19 @@
+{
+  "keys": [
+    {
+      "name": "input",
+      "role": "input",
+      "type": ""
+    },
+    {
+      "name": "output",
+      "role": "output",
+      "type": ""
+    },
+    {
+      "name": "mode",
+      "role": "other",
+      "type": ""
+    }
+  ]
+}
